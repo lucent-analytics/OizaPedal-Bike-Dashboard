@@ -98,7 +98,7 @@ This dashboard enables data-driven decisions for:
 
 Feel free to reach out for collaboration or questions about this project!
 
-- **LinkedIn**: [linkedin.com/in/john-doe](https://linkedin.com/in/amudipeayomide)
+- **LinkedIn**: [linkedin.com/in/amudipeayomide](https://linkedin.com/in/amudipeayomide)
 - **Email**: amudipeayomide@gmail.com
 
 
